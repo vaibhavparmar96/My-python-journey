@@ -63,7 +63,7 @@ Feel free to open an issue or fork and improve the examples.
 
 If you’re also learning or have any questions, feel free to connect:
 
-- 📧 Email: vaibhavparmar.180708@example.com
+- 📧 Email: vaibhavparmar.180708@gmail.com
 - 💬 LinkedIn: www.linkedin.com/in/vaibhav-parmar-7b274132a
 
 ---
